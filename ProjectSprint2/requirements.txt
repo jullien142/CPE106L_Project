@@ -1,4 +1,0 @@
-flet>=0.7.0
-SQLAlchemy>=1.4
-matplotlib>=3.5
-pytest>=7.0 
