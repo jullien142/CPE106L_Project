@@ -1,0 +1,7 @@
+fastapi
+flet
+sqlalchemy
+matplotlib
+passlib[bcrypt]
+requests
+uvicorn 
